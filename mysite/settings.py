@@ -25,7 +25,7 @@ SECRET_KEY = '@6lk%gyy^n+a$h+xp&l$4j4mv63-v0*hhi8a-8np14+=#z^d)6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'sania.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'aimpepper.pythonanywhere.com']
 
 
 # Application definition
